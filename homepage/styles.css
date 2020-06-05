@@ -1,0 +1,62 @@
+h1
+{
+  text-align: center;
+}
+
+body
+{
+  text-align: justify;
+  padding: 20px;
+  background-color: #F0FFFF;
+}
+
+img
+{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.float-right
+{
+  margin-right: -5px;
+}
+
+.float-left
+{
+  margin-left: -5px;
+}
+
+.fab {
+
+  padding: 20px;
+  font-size: 50px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Google */
+.fa-google {
+  background: #EA4335;
+  color: white;
+  margin: 40px;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  margin: 40px;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #833AB4;
+  color: white;
+  margin: 40px;
+}
